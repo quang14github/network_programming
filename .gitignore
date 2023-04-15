@@ -1,0 +1,4 @@
+# Compiled C files
+*.o
+*.dSYM
+*.DS_Store
