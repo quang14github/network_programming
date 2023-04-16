@@ -1,0 +1,4 @@
+Hello server!
+This is a test message.
+Everything works fine.
+Goodbye server!
